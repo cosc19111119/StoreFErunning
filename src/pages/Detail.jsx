@@ -24,7 +24,7 @@ function Detail() {
 
                     <div className="col-7 ">
                         <img
-                            src="https://picsum.photos/200/200"
+                            src={`http://localhost:4002/${product.image}`}
                             alt="Product "
                             className="img-fluid"
                         />

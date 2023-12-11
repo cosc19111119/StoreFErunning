@@ -7,8 +7,8 @@ function Home(props) {
 
   return (
     <>
-    welcome
-      {/* <div  className="hompage text-center" style={{ backgroundColor: "white" }}>
+   
+      <div  className="hompage text-center" style={{ backgroundColor: "white" }}>
         <h1 className='text-center'>Home Page</h1>
         <div className="container">
           <div className="row">
@@ -51,7 +51,7 @@ function Home(props) {
 
 
         </div>
-      </div> */}
+      </div>
     </>
   )
 }
